@@ -1,6 +1,12 @@
 # flutter_intro
 
-A new Flutter project.
+## Patrones de diseño
+- MVC
+- BLoC
+[Ejemplos de patrones de diseño](https://github.com/brianegan/flutter_architecture_samples)
+
+
+
 
 ## Getting Started
 
