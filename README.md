@@ -7,6 +7,8 @@
 [Ejemplos de patrones de diseño](https://github.com/brianegan/flutter_architecture_samples)
 
 
+## TO DO
+- [Ver ejemplo multiplataforma Flutter Folio](https://flutter.gskinner.com/)
 
 
 ## Getting Started
